@@ -4,6 +4,10 @@
   <img src="assets/smcp.png" alt="S/MCP Logo" width="800" />
 </div>
 
+<a href="https://glama.ai/mcp/servers/@Akrasia0/S-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Akrasia0/S-MCP/badge" alt="S/- Stern Model Context Protocol MCP server" />
+</a>
+
 ## Overview
 
 S/MCP (Stern Model Context Protocol) is a powerful MCP server that provides access to Stern, a philosophical AI mentor who helps humans realize their potential through subtle guidance and wisdom. Stern combines rationalist thinking with stoic philosophy to provide mentorship and accountability through smart contracts on Solana.
