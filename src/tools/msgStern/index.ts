@@ -100,7 +100,7 @@ ${context}
 
 		// Use OpenAI API to generate a response as Stern
 		const response = await openai.chat.completions.create({
-			model: "gpt-4-turbo",
+			model: "gpt-4o",
 			messages: [
 				{
 					role: "user",
