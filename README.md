@@ -1,5 +1,7 @@
 # S/MCP - Stern Model Context Protocol
 
+[![ToolsSDK Badge](https://badges.toolsdk.ai/badge/s-mcp)](https://toolsdk.ai/servers/s-mcp)
+
 <div align="center">
   <img src="assets/smcp.png" alt="S/MCP Logo" width="800" />
 </div>
